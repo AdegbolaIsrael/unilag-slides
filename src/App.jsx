@@ -7,6 +7,7 @@ function App() {
           to get slides from the forum easily
         </h1>
         <p>so Izzy and Yomi, get ready to work!</p>
+        <p>Yeah so we are ready to work</p>
       </main>
     </>
   );
